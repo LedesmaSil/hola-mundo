@@ -11,3 +11,5 @@ mi ultima linea en el repositorio
 mas cosas
 
 es lo que podamos hacer
+
+segimos explorando github
